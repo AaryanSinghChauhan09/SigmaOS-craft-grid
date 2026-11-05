@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_craft_grid"
+version = "0.1.0"
+edition = "2021"
+description = "Grid and layout design system for SigmaOS — column grids, baseline grids, guide management"
+
+[lib]
+name = "sigmaos_craft_grid"
+path = "src/lib.rs"

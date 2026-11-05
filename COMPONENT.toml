@@ -1,0 +1,16 @@
+[component]
+name = "SigmaOS-craft-grid"
+tier = 5
+stability = "scaffold"
+language = "rust"
+description = "Grid and layout design system for SigmaOS — column grids, baseline grids, guide management"
+upstream = []
+
+[contract]
+provides = ["column-grid", "layout-guides"]
+depends_on = []
+
+[maturity]
+status = "Scaffold"
+test_evidence = "Compiles"
+next_milestone = "Verification test suite"
