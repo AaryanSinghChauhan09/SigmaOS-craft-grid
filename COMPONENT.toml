@@ -3,7 +3,7 @@ name = "SigmaOS-craft-grid"
 tier = 5
 stability = "scaffold"
 language = "rust"
-description = "Grid and layout design system for SigmaOS — column grids, baseline grids, guide management"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
