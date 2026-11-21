@@ -3,6 +3,9 @@
 //! Real implementation: grid cells, columns, rows, spanning, alignment,
 //! responsive constraints, and validation. Replaces the 104-line CLI placeholder.
 
+/// Grid layout system module.
+pub mod sigmagrid;
+
 use std::collections::BTreeMap;
 use std::fmt;
 
